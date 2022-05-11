@@ -31,7 +31,6 @@ The idea is to see if there is any correlation between daily cases of corona and
 
 # Extract :
 
-![Définition de l&\#39;API REST: Qu&\#39;est-ce qu&\#39;une API REST (API RESTful)?](https://cf.shopee.tw/file/7941f009096b834b5a6b02e4f9e97ff4 =250x250)
 Thanks to request(python library) we can get our data from the api and get data (json format)
 
 **Data Transformation:**
