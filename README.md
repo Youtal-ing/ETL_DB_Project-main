@@ -37,10 +37,7 @@ Thanks to request(python library) we can get our data from the api and get data 
 
 In the T part, First we transform our data from Json format to Dataframes
 
-![](media/ed643ad220c589ffb586d0c0180862a7.png)
-
-Then multiple operations like
-
+Then multiple operations like :
 -   Data cleaning
 -   Data join
 -   Data integration
@@ -52,4 +49,3 @@ III-Load :
 
 In this last part we use SqlAlchemy to create a connection with our database and load the dataframes.
 
-![](media/1843056a21474215e9dc783db78080bc.png)
