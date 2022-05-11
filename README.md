@@ -8,7 +8,7 @@ A data pipeline is a set of tools and processes used to automate the movement an
 -   Data transformation.
 -   The transfer of this data to one or more systems.
 
-![Timeline, waterfall chartDescription automatically generated](media/2f11a3362c603c14111880be13c6f066.png)
+![Timeline, waterfall chartDescription automatically generated](https://hazelcast.com/wp-content/uploads/2021/12/24_DataPipleline.png)
 
 **Project Proposal :**
 
