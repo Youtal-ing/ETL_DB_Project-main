@@ -18,7 +18,6 @@ the first one is Alphavantage api which provide us stock daily real time series 
 
 The idea is to see if there is any correlation between daily cases of corona and the behaviour of the market and economic indicators
 
-![What is ETL? - Databricks](https://i0.wp.com/databricks.com/wp-content/uploads/2021/05/ETL-Process.jpg?resize=610%2C272&ssl=1 =250x250)
 ![](https://i0.wp.com/databricks.com/wp-content/uploads/2021/05/ETL-Process.jpg?resize=610%2C272&ssl=1=250x250)
 
 **Tools used :**
